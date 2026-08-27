@@ -22,6 +22,8 @@
     const dot = document.createElement('button');
     dot.type = 'button';
     dot.className = 'nav-dot';
+    dot.textContent = slide.dataset.nav || String(index + 1);
+    dot.title = slide.dataset.title || '未命名頁面';
     dot.setAttribute('aria-label', '前往第 ' + (index + 1) + ' 頁：' + (slide.dataset.title || '未命名頁面'));
     dot.addEventListener('click', function () {
       location.hash = '#/' + (index + 1);
@@ -65,6 +67,12 @@
     previous.disabled = index === 0;
     next.disabled = index === slides.length - 1;
     count.textContent = String(index + 1).padStart(2, '0') + '/' + String(slides.length).padStart(2, '0');
+
+    const activeDot = dots[index];
+    if (activeDot) {
+      const targetLeft = activeDot.offsetLeft - (dotTray.clientWidth - activeDot.offsetWidth) / 2;
+      dotTray.scrollTo({ left: Math.max(0, targetLeft), behavior: 'smooth' });
+    }
   }
 
   previous.addEventListener('click', function () { go(activeIndex() - 1); });
