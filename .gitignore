@@ -1,0 +1,15 @@
+# Private trip source material — never publish with GitHub Pages.
+*.docx
+*.pdf
+*.eml
+private/
+
+# Local agent/skill tooling is not part of the published website.
+.agents/
+
+# Keep editable image masters local; the website uses compressed WebP files.
+assets/images/*-source.png
+
+# Generated previews.
+preview/
+*-png/
