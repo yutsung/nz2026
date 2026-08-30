@@ -23,4 +23,4 @@
 - [MetService｜Severe Weather Warnings](https://www.metservice.com/warnings/home)：出發前與每日早晨檢查 Watches／Warnings。
 - [MetService｜Forecasts and Uncertainty](https://blog.metservice.com/node/1015)：預報時間拉長時，不確定性會增加。
 
-頁面只做個人旅程所需的摘要與穿著判讀，使用通用天氣符號並連回官方頁面。MetService 公開延伸預報沒有 JMA 式 A／B／C 信心度；9/6–9/9 依頁面標示為電腦模型自動產生，應視為趨勢而非定案。
+頁面只做個人旅程所需的摘要與穿著判讀，使用通用天氣符號並連回官方頁面。「下雨」表示日累積達 1 mm 的機率，「10 mm↑」表示日累積達 10 mm 的機率；後者是雨量門檻機率，不等同 MetService 豪雨警報。MetService 公開延伸預報沒有 JMA 式 A／B／C 信心度；9/6–9/9 依頁面標示為電腦模型自動產生，應視為趨勢而非定案。
