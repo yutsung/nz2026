@@ -11,16 +11,16 @@
 
 四張章節影像由 OpenAI 內建 image generation 產生，提示方向為「紐西蘭南島公路旅行、混合媒材旅遊雜誌拼貼、無圖片內文字」。
 
-## 9/4–9/9 推估氣象與穿著
+## 9/4–9/10 推估氣象與穿著
 
-查詢日期：2026-08-30 NZST
+查詢日期：2026-09-02 NZST
 
 - [MetService｜Queenstown Extended](https://www.metservice.com/towns-cities/regions/southern-lakes/locations/queenstown/extended)：9/4 皇后鎮。
 - [MetService｜Te Anau Extended](https://www.metservice.com/rural/regions/southland/locations/te-anau/extended)：9/5 蒂阿瑙，以及 9/7 神奇峽灣出發地與 9/8 西側路段的參考。
 - [MetService｜Milford Sound Extended](https://www.metservice.com/towns-cities/regions/southland/locations/milford-sound/extended)：9/6 米佛峽灣。
 - [MetService｜Oamaru Extended](https://www.metservice.com/towns-cities/regions/north-otago/locations/oamaru/extended)：9/8 東岸目的地。
-- [MetService｜Mount Cook Extended](https://www.metservice.com/towns-cities/regions/canterbury-high-country/locations/mount-cook/extended)：MetService 搜尋 Lake Tekapo 時所列的最佳鄰近預報，用於 9/9 蒂卡波趨勢。
-- [MetService｜Severe Weather Warnings](https://www.metservice.com/warnings/home)：出發前與每日早晨檢查 Watches／Warnings。
+- [MetService｜Mount Cook Extended](https://www.metservice.com/towns-cities/regions/canterbury-high-country/locations/mount-cook/extended)：MetService 搜尋 Lake Tekapo 時所列的最佳鄰近預報，用於 9/9 蒂卡波與 9/10 庫克山趨勢。
+- [MetService｜Severe Weather Warnings](https://www.metservice.com/warnings/home)：查詢時無陸地嚴重天氣或道路降雪警報；出發前與每日早晨仍須重查。
 - [MetService｜Forecasts and Uncertainty](https://blog.metservice.com/node/1015)：預報時間拉長時，不確定性會增加。
 
-頁面只做個人旅程所需的摘要與穿著判讀，使用通用天氣符號並連回官方頁面。「下雨」表示日累積達 1 mm 的機率，「10 mm↑」表示日累積達 10 mm 的機率；後者是雨量門檻機率，不等同 MetService 豪雨警報。MetService 公開延伸預報沒有 JMA 式 A／B／C 信心度；9/6–9/9 依頁面標示為電腦模型自動產生，應視為趨勢而非定案。
+頁面只做個人旅程所需的摘要與穿著判讀，使用通用天氣符號並連回官方頁面。「下雨」表示日累積達 1 mm 的機率，「10 mm↑」表示日累積達 10 mm 的機率；後者是雨量門檻機率，不等同 MetService 豪雨警報。9/4 已進入短期預報，官方未列雨量門檻機率，頁面不自行推估。MetService 說明第 1–5 天由氣象人員製作、第 6–10 天由電腦模型自動產生，因此 9/7–9/10 應視為趨勢而非定案。
