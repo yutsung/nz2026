@@ -218,6 +218,11 @@ body {
   color: var(--good);
 }
 
+.status-chip.cancelled {
+  background: color-mix(in srgb, var(--bad) 13%, var(--surface));
+  color: var(--bad);
+}
+
 .status-chip.check {
   background: color-mix(in srgb, var(--warn) 15%, var(--surface));
   color: #875214;
